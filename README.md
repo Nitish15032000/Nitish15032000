@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [#Link](#Link)
 
-- ⚡ Fun fact **I think I am fanny**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
