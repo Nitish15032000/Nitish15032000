@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish15032000&label=Profile%20views&color=0e75b6&style=flat" alt="nitish15032000" /> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I’m currently learning **JavaScript & Problem Solving in Java**
 
 - 👨‍💻 All of my projects are available at [#Link](#Link)
 
