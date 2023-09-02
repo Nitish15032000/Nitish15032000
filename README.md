@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript & Problem Solving in Java**
 
-- 👨‍💻 All of my projects are available at [#Link](https://github.com/Nitish15032000)
+- 👨‍💻 All of my projects are available at [github.com/Nitish15032000]()
 
 - 📫 How to reach me **nitish.edu.in@gmail.com**
 
-- 📄 Know about my experiences [#Link](www.linkedin.com/in/nitish-kumar-d15m03y2000)
+- 📄 Know about my experiences [www.linkedin.com/in/nitish-kumar-d15m03y2000]()
 
 - ⚡ Fun fact **I think I am funny**
 
