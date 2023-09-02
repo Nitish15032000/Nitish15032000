@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nitish.edu.in@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nitish-kumar-d15m03y2000]()
+- 📄 Know about my experiences [www.linkedin.com/in/nitish9117]()
 
 - ⚡ Fun fact **I think I am funny**
 
